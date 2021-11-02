@@ -1,0 +1,9 @@
+body {
+  background-color: lightcoral;
+}
+#div1 {
+  border: 2px dotted green;
+}
+#div2 {
+  border: 1px solid black;
+}
